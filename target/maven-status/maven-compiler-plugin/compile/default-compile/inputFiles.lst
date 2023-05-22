@@ -1,0 +1,11 @@
+/home/ire/IdeaProjects/photo_app/src/main/java/com/empresswest/photo_app/security/WebSecurity.java
+/home/ire/IdeaProjects/photo_app/src/main/java/com/empresswest/photo_app/service/impl/UserServiceImpl.java
+/home/ire/IdeaProjects/photo_app/src/main/java/com/empresswest/photo_app/io/repository/UsersRepository.java
+/home/ire/IdeaProjects/photo_app/src/main/java/com/empresswest/photo_app/ui/model/response/UserRest.java
+/home/ire/IdeaProjects/photo_app/src/main/java/com/empresswest/photo_app/service/UserService.java
+/home/ire/IdeaProjects/photo_app/src/main/java/com/empresswest/photo_app/PhotoAppApplication.java
+/home/ire/IdeaProjects/photo_app/src/main/java/com/empresswest/photo_app/shared/dto/UserDto.java
+/home/ire/IdeaProjects/photo_app/src/main/java/com/empresswest/photo_app/ui/controller/UserController.java
+/home/ire/IdeaProjects/photo_app/src/main/java/com/empresswest/photo_app/io/entity/UserEntity.java
+/home/ire/IdeaProjects/photo_app/src/main/java/com/empresswest/photo_app/ui/model/request/UserDetailsRequestModel.java
+/home/ire/IdeaProjects/photo_app/src/main/java/com/empresswest/photo_app/shared/utils/Utils.java
