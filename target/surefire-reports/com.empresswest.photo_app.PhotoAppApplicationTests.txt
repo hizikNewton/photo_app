@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.empresswest.photo_app.PhotoAppApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.216 s - in com.empresswest.photo_app.PhotoAppApplicationTests
